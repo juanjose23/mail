@@ -1,4 +1,4 @@
-# Cliente de Correo Electrónico SPA
+# Project - 3 mail
 
 Esta es una aplicación de cliente de correo electrónico de una sola página (SPA) implementada en JavaScript, HTML y CSS. A continuación se detalla cómo está implementada la aplicación y cómo puedes utilizarla.
 
